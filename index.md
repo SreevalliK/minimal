@@ -48,6 +48,6 @@ This should be done by using the CNN/RNN architectures
 ### Automatic Ticket Classification 
 **Objective :** Create a model that can automatically classify customer complaints based on the products and services that the ticket mentions. customer complaints are unstructured text data; so, traditionally, companies need to allocate the task of evaluating and assigning each ticket to the relevant department to multiple support employees. Build a model that is able to classify customer complaints based on the products/services.
 
-**Technology :** EDA Techniques, Data Visualization, Topic Modelling. Model building using Supervised learning. Logistic Regression, Random Forests, Naive Bayes
+**Technology :** EDA Techniques, Data Visualization, NLTK, POS Tagging,Topic Modelling. Model building using Supervised learning. Logistic Regression, Random Forests, Naive Bayes
 
 ---
